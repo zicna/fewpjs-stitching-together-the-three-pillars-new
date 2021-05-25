@@ -1,5 +1,48 @@
 // We use this code, known as Objects, to control toggling like / unlike status
 
+
+
+
+console.log("Yurrr")
+
+
+
+let getTitle = document.querySelector("h1")
+  console.log("Hey Sam! This is That Title You Wanted :)", getTitle)
+
+  getTitle.innerText = "Stratch That----Y'all are PHENOMENAAAL❣️❣️❣️❣️ :)"
+
+let getPTags = document.querySelector("p")
+  console.log("Hey Sam! This is That pTag You Asked For :)", getPTags)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const title = document.querySelector('h1')
+// title.innerText = "Yurrrr!🙆🏾‍♂️"
+
+
+// let allWhoSayz = document.querySelectorAll('.media-post')
+
+
+
+
+
 let glyphStates = {
   "♡": "♥",
   "♥": "♡"
