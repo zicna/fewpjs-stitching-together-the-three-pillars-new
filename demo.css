@@ -4,15 +4,21 @@ body {
 }
 
 body h1 {
-  color: rgb(52, 75, 244);
+  color: #FFF;
 }
 
 body > header {
   margin-bottom: 5%;
 }
 
+article.media-post {
+  border: solid 1px #000;
+  margin: 2% 3%;
+  background-color: #fff;
+}
+
 article.media-post > p {
-  background-color: rgba(0, 255, 8, 0.25);
+  background-color: rgba(0,123,255,0.25);
   padding: 1em 2em;
 }
 
